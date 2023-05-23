@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(./img/terran.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#build-order{
+    padding-top: 10%;
+    padding-left: 20%;
+}
+#build{
+    padding-top: 10px;
+    padding-left: 20%;
+}
+
+#build p{
+    padding-right: 15px;
+}
